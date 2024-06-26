@@ -11,4 +11,3 @@ node_modules/*
 .eslintrc.cjs
 babel.config.cjs
 jest.config.cjs
-.yarn
